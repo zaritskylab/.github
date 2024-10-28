@@ -2,7 +2,7 @@
 
 Motivated by fundamental questions in cell biology our lab produces biological insights along with specialized analytic tools that reveal hidden patterns in cell imaging data. This GitHub organization serves the purpose to store and maintain the products of our research.
 
-* [Intracellular_Information_Processing](https://github.com/zaritskylab/Intracellular_Information_Processing) - Spatiotemporal analysis of F-actin polymerization with micropillar arrays reveals synchronization between adhesion sites.
+* [Intracellular_Information_Processing](https://github.com/zaritskylab/Intracellular_Information_Processing) - Spatiotemporal analysis of F-actin polymerization with micropillar arrays reveals synchronization between adhesion sites. **<span style="color:tomato">Under code review for clearance and maintainability</span>**
 * [shape-exp-modeling](https://github.com/zaritskylab/shape-exp-modeling) - Modeling the interplay between cell shape and expression in multiplexed imaging.
 * [AnomalyDetectionScreening](https://github.com/zaritskylab/AnomalyDetectionScreening) - Framework for hit identification in High Throughput Screening (HTS).
 * [recurring-transient-communities](https://github.com/zaritskylab/recurring-transient-communities) - Detection of transient communities and hotspots in the developing Drosophila lymph gland, using ARCOS framework on Ca2+ readouts.
